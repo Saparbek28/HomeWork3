@@ -1,0 +1,6 @@
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\БайназарС.CORP\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
